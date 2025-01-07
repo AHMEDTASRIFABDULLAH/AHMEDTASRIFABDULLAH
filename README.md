@@ -1,5 +1,7 @@
+<br clear="both">
+
 <div align="left">
-  <img width="100% height="800" src="https://i.ibb.co.com/Yyx0GZb/Customer-Relations-Facebook-Post-in-Cream-Beige-Black-Warm-Modern-Style-4.png"  />
+  <img width="100%" height="500" src="https://i.ibb.co.com/6y1df7p/Customer-Relations-Facebook-Post-in-Cream-Beige-Black-Warm-Modern-Style.jpg"  />
 </div>
 
 ###
