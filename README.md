@@ -1,18 +1,18 @@
 <div align="left">
-  <img height="220" src="https://i.ibb.co.com/5F0DdR1/Customer-Relations-Facebook-Post-in-Cream-Beige-Black-Warm-Modern-Style-3.png"  />
+  <img width="100%" src="https://i.ibb.co.com/5F0DdR1/Customer-Relations-Facebook-Post-in-Cream-Beige-Black-Warm-Modern-Style-3.png"  />
 </div>
 
 ###
 
-<h2 align="left">Full-stack-Developer</h2>
+<h1 align="left">Full-stack-Developer</h1>
 
 ###
 
-<h3 align="left">About me</h3>
+<h2 align="left">About me</h2>
 
 ###
 
-<p align="left">🔭 I’m currently working on a restaurant management project.<br><br>🌱 I’m currently learning Mongoose.<br><br>👯 I’m looking to collaborate on exciting web development projects.<br><br>🤔 I’m looking for help with optimizing database queries.<br><br>💬 Ask me about web development and my favorite tech stack.<br><br>📫 How to reach me: tasrifabdullh234@gmail.com<br><br>😄 Pronouns: he/him<br><br>⚡ Fun fact: I love exploring new cuisines and trying out different recipes.</p>
+<h4 align="left">🔭 I’m currently working on a restaurant management project.<br><br>🌱 I’m currently learning Mongoose.<br><br>👯 I’m looking to collaborate on exciting web development projects.<br><br>🤔 I’m looking for help with optimizing database queries.<br><br>💬 Ask me about web development and my favorite tech stack.<br><br>📫 How to reach me: tasrifabdullh234@gmail.com<br><br>😄 Pronouns: he/him<br><br>⚡ Fun fact: I love exploring new cuisines and trying out different recipes.</h4>
 
 ###
 
