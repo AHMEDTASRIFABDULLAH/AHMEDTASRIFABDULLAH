@@ -6,10 +6,6 @@
 
 ###
 
-<h1 align="left">Full-stack-Developer</h1>
-
-###
-
 <h2 align="left">About me</h2>
 
 ###
